@@ -1,2 +1,2 @@
 # myfirstreposistory
-This is my first reposistory.
+This is my first Git reposistory.
